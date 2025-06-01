@@ -1,6 +1,7 @@
 # AIforSeniors
 
-![AIforSeniors Logo](https://github.com/lalomorales22/ai-for-seniors/raw/main/public/logo.png)
+<img width="788" alt="Screenshot 2025-06-01 at 10 33 59 AM" src="https://github.com/user-attachments/assets/b89885a9-2084-4b04-835b-51f21a2e2fbe" />
+
 
 AIforSeniors is a user-friendly web application designed specifically for seniors to help them interact with artificial intelligence in a simple, intuitive way. Our mission is to make AI technology accessible and beneficial for older adults.
 
